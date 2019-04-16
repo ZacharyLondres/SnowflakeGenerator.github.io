@@ -72,12 +72,17 @@ h1{
 }
 
 #mainDiv{
+    border: none;
     border-radius: 10%;
     background-color: rgb(48, 37, 16);
     margin: 20px auto;
     width: 50%;
     padding: 20px;
     box-shadow: 0 100px #666;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+
 }
 
 #root{
